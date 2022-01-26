@@ -14,8 +14,7 @@
     "@types/jest": "^27.4.0",
     "jest": "^27.4.7",
     "prettier": "^2.5.1",
-    "regenerator": "^0.14.7",
-    "runtime": "^0.14.1",
+    "regenerator-runtime": "^0.13.9",
     "typescript": "^4.5.5"
   }
 }
